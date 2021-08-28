@@ -6,6 +6,8 @@ public interface FunctionalInterface {
 		return z;
 	}
 	public default int plus(int x,int y) {
+	
+	//return sattement
 		return x+y;
 	}
 }
